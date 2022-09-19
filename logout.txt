@@ -1,0 +1,2 @@
+    const dispatch=useDispatch();
+    <button onClick={()=>dispatch(logout())}>logout</button>
